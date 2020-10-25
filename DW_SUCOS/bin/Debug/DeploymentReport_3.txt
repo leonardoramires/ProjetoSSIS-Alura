@@ -1,0 +1,22 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The column [dbo].[DIM_CATEGORIA].[cesc_categoria] is being dropped, data loss could occur.
+
+** User actions
+     Alter
+       [dbo].[DIM_CATEGORIA] (Table)
+     Create
+       [dbo].[DIM_ORGANIZACIONAL] (Table)
+       [dbo].[DIM_TEMPO] (Table)
+       [dbo].[FK_DIM_ORGANIZACIONAL_DIM_ORGANIZACIONAL] (Foreign Key)
+
+** Supporting actions
+
+The column [dbo].[DIM_CATEGORIA].[cesc_categoria] is being dropped, data loss could occur.
+

@@ -1,0 +1,5 @@
+C:\Users\Leonardo\source\repos\ProjetoSSIS\DW_SUCOS\bin\Debug\DW_SUCOS.dacpac
+C:\Users\Leonardo\source\repos\ProjetoSSIS\DW_SUCOS\bin\Debug\DW_SUCOS.dll
+C:\Users\Leonardo\source\repos\ProjetoSSIS\DW_SUCOS\bin\Debug\DW_SUCOS.pdb
+C:\Users\Leonardo\source\repos\ProjetoSSIS\DW_SUCOS\obj\Debug\DW_SUCOS.dll
+C:\Users\Leonardo\source\repos\ProjetoSSIS\DW_SUCOS\obj\Debug\DW_SUCOS.pdb
